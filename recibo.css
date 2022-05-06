@@ -44,14 +44,6 @@ h1 {
         display: none;
     }
 }
-
-
-span {
-    font-weight: 100;
-    color: black;
-    font-size: large;
-}
-
 #valorPago {
     border: 1px solid #333;
     padding: 4px 10px;
